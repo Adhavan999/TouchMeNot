@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TouchMeNot</string>
+    <string name="card_settings">Settings</string>
+    <string name="card_pair">Pair Device</string>
+    <string name="card_contacts">SOS Contacts</string>
+
+    // SOS Contacts
+    <string name="contact1_name">contact1_name</string>
+    <string name="contact2"></string>
+    <string name="contact3"></string>
+    <string name="contact4"></string>
+    <string name="contact5"></string>
+    <string name="contact1_no">contact1_phone</string>
+    <string name="contact2_no"></string>
+    <string name="contact3_no"></string>
+    <string name="contact4_no"></string>
+    <string name="contact5_no"></string>
+
+
+</resources>
